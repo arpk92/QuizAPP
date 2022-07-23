@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298072768692",
+    "firebase_url": "https://brainspire-ac092.firebaseio.com",
+    "project_id": "brainspire-ac092",
+    "storage_bucket": "brainspire-ac092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298072768692:android:5b44fa504fc86f28dd57e1",
+        "android_client_info": {
+          "package_name": "com.snowhillapps.brainspire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298072768692-08it7uq5lonqphk3t4bvi6shs5j5ve5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snowhillapps.brainspire",
+            "certificate_hash": "755097abf0b3eda67c240ad85cc7d6c7db05c033"
+          }
+        },
+        {
+          "client_id": "298072768692-mfnlvk0md3jr3i75n66obfpl7rki2ntl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Hs5xA5x_yYF_P8Nx_PNW-faTAEDg-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298072768692-mfnlvk0md3jr3i75n66obfpl7rki2ntl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
